@@ -8,4 +8,4 @@ echo " arg$i=$arg";
 let " i+=1"
 done
  echo "$args">>names.txt
-echo "$# Have been added";
+echo "$# names have been added";
